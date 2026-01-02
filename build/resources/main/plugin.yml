@@ -1,0 +1,6 @@
+name: Haedoji
+version: '0.0.1'
+main: com.example.haedoji.Haedoji
+api-version: '1.21'
+authors: [corche]
+description: 해돋이전용 플러그인입니다.
